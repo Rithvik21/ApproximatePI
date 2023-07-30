@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Statically
+comment1.params=a
+comment1.target=Statically(int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+numComments=4
